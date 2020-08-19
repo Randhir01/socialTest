@@ -1,4 +1,4 @@
-//get data rock
+//get data rock test rock
 function getRaja(){
     alert('getRaja');
 }
